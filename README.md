@@ -1,6 +1,6 @@
-# Comet Contracts
+# Comet Contracts V2
 
-Smart Contracts explicitly written for Soroban.
+A BLNT-maintained fork of the CometDEX Soroban weighted-pool contracts.
 
 ## Supported Pool Assets
 

@@ -1574,7 +1574,7 @@ dependencies = [
 [[package]]
 name = "soroban-fixed-point-math"
 version = "1.6.0"
-source = "git+https://github.com/levinson/soroban-fixed-point-math.git?rev=417905c4e9c7ddea114455e98bd9e4abe6f9f5e7#417905c4e9c7ddea114455e98bd9e4abe6f9f5e7"
+source = "git+https://github.com/blnt-protocol/soroban-fixed-point-math.git?rev=5217115242a68505aaa43864a5a978b199c44bf8#5217115242a68505aaa43864a5a978b199c44bf8"
 dependencies = [
  "soroban-sdk",
 ]
